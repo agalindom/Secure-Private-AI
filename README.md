@@ -10,12 +10,16 @@ Both notebooks are trained on the MNIST digits dataset
 
 # Files
 Federated-Learning.ipynb
+
 Secure-Federated.ipynb
 
 # Libraries
   * PyTorch
   * PySyft
   * Numpy
+
+# PySyft Installation
+  - For the installation of the package go to https://github.com/OpenMined/PySyft and inside the README file you can find all the steps to successfully install PySyft and also several examples on how to use it. 
 
 # Results
   - For the first notebook, the test accuracy after 30 epochs of training was of **0.928** and for the second one the test accuracy after 40 epochs was of **0.9342**
